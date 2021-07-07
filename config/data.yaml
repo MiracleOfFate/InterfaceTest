@@ -1,0 +1,5 @@
+api_url: https://passport.58.com/
+ui_url: http://39.98.138.157:5008/api/
+database:
+  usrname:root
+  password:1234
